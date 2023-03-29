@@ -4,4 +4,4 @@ Extent Report
 
 Allure Report
 
-Sprint Plan --> Planning of interview
+Sprint Plan --> Planning of interview for next
