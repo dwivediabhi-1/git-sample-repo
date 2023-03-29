@@ -18,3 +18,8 @@ Maven: Central Repositery where all dependencies defined available ( it is centr
 
 POM: Pages and objects are defined at other page
 and test case is written at other place
+-----------------------------------------------------------------------------------------------------
+
+Assert.isTrue()
+Assert.isFalse()
+=======	
