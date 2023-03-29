@@ -1,0 +1,12 @@
+git status 								--> prints status of the git repo
+git init   								--> initializes the git repo
+git config --global user.name "Abhishek Dwivedi" 			--> Specify username globally
+git config --global user.email abhishek.dwivedi@crestechsoftware.com 	--> Specify email globally
+git config user.name "Abhishek Dwivedi" 				--> Specify username for particullar repositary
+git config user.email abhishek.dwivedi@crestechsoftware.com 		--> Specify email for particullar repositary
+git add 								--> Add file to staging environment
+git commit -m""								--> Commit file to local git repositary
+git log									--> check file log history
+git diff <filename>							--> check changes made to file with existing file
+git remote add origin <Github Repo URL>					--> Eshtablish connection to the remote Gitub Repositary
+git push origin master							--> Push to master branch
