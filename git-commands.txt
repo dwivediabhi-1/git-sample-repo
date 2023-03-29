@@ -10,3 +10,11 @@ git log									--> check file log history
 git diff <filename>							--> check changes made to file with existing file
 git remote add origin <Github Repo URL>					--> Eshtablish connection to the remote Gitub Repositary
 git push origin master							--> Push to master branch
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Maven: Central Repositery where all dependencies defined available ( it is centralised repository)
+
+
+POM: Pages and objects are defined at other page
+and test case is written at other place
